@@ -1,2 +1,2 @@
 
-ignore/personal ;)
+ignore just personal ;)
